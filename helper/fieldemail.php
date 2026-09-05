@@ -1,6 +1,6 @@
 <?php
 
-use function dokuwiki\MailUtils::isValid;
+use dokuwiki\MailUtils;
 
 /**
  * Class helper_plugin_bureaucracy_fieldemail
